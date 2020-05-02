@@ -1,6 +1,8 @@
 # jetson_configuration
 Configuring the Jetson Nano for my deep learning tutorial
 
+To learn more please visit my [website](https://davidforino-aisolutions.com/lesson-1-setting-up-your-jetson-nano/)!
+
 ## Usage:
 
 - This bash script works only for jetpack 4.3, so make sure you use that version on your nano.
